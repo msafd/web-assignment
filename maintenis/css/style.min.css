@@ -1,0 +1,13 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}
+fieldset,img{border:0}address,caption,dfn,th,var{font-style:normal;font-weight:normal}li{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}
+body{margin:0;padding:0;background:#fcf9f7 url(../images/bg.gif) repeat;font-family:Calibri,sans-serif}.container{width:80%;max-width:800px;margin:100px auto;text-align:center}
+a.logo{width:60px;padding:125px 20px 16px;margin:30px auto;display:block;text-decoration:none;font-family:Helvetica Neue,Helvetica,Arial;color:#fff;text-transform:uppercase;background:url(../images/logomgmppaita.png) left top no-repeat;text-align:left;text-shadow:1px 1px 1px #165929;font-size:18px;margin-bottom:30px;line-height:18px}
+a.logo span{font-size:14px}a.logo:hover{text-decoration:underline}h2{font-size:40px;color:#11923f;margin-bottom:20px}p{font-size:20px;line-height:28px;color:#636466;text-shadow:1px 1px 1px #fff}
+ul.information{width:700px;float:left;margin-top:22px;margin-bottom:40px}ul.information li{float:left;height:100px;color:#636466;font-size:16px;text-align:center;padding:20px 0 0 0}
+ul.information li a{color:#636466;text-decoration:none}ul.information li a:hover{color:#636466;text-decoration:underline}ul.information li.one{width:243px;background:url(../images/divider.png) right no-repeat}
+ul.information li.two{width:169px;background:url(../images/divider.png) right no-repeat}ul.information li.three{width:288px}ul.information li span{font-size:40px;display:block}
+.clear{clear:both}ul.social{width:303px;margin:0 auto}ul.social li{width:91px;height:29px;float:left}ul.social li a{width:91px;height:29px;display:block}
+ul.social li.fb{background:url(../images/social.png) left top no-repeat;margin-right:15px}ul.social li:hover.fb{background:url(../images/social.png) left bottom no-repeat}
+ul.social li.link{background:url(../images/social.png) -108px top no-repeat;margin-right:15px}ul.social li:hover.link{background:url(../images/social.png) -108px bottom no-repeat}
+ul.social li.tw{background:url(../images/social.png) -221px top no-repeat}ul.social li:hover.tw{background:url(../images/social.png) -221px bottom no-repeat}
+img{width:100%}
